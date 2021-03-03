@@ -6,6 +6,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 
+import com.demo.netmvvm.BR;
 import com.demo.netmvvm.R;
 import com.demo.netmvvm.databinding.ActivityMainBinding;
 import com.demo.netmvvm.weather.viewmodel.QueryWeatherViewModel;

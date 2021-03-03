@@ -1,4 +1,4 @@
-package com.demo.netmvvm.net.request;
+package com.demo.netmvvm.net.request.weather;
 
 import com.demo.netmvvm.net.Config;
 import com.demo.netmvvm.net.base.BaseHttpClient;

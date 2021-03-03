@@ -1,9 +1,8 @@
-package com.demo.netmvvm.net.request;
+package com.demo.netmvvm.net.request.weather;
 
 import com.demo.netmvvm.net.api.NetApi;
 import com.demo.netmvvm.weather.model.WeatherData;
 
-import io.reactivex.Scheduler;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.disposables.Disposable;

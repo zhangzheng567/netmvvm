@@ -7,4 +7,5 @@ package com.demo.netmvvm.net;
  */
 public interface Config {
     String BASE_URL_WEATHER = "http://www.weather.com.cn/";
+    //gradlew.bat assembleDebug
 }

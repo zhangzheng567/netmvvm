@@ -5,11 +5,9 @@ import android.util.Log;
 import androidx.databinding.ObservableBoolean;
 import androidx.databinding.ObservableField;
 
-import com.demo.netmvvm.net.request.WeatherNetRequestManager;
+import com.demo.netmvvm.net.request.weather.WeatherNetRequestManager;
 import com.demo.netmvvm.weather.model.WeatherData;
 import com.demo.netmvvm.weather.model.WeatherInfo;
-
-import java.util.Observable;
 
 /**
  * @author : anzh
